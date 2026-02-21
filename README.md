@@ -1,31 +1,11 @@
-# TigerC-Compiler
-TigerC Compiler - In memory of Dennis Ritchie
-Minimal C compiler experiment written from scratch.
-
-## Current Features
-- Tokenizer
-- Expression parser
-- Shunting Yard algorithm
-- Bytecode evaluator
-
-## Roadmap
-- C23 keywords
-- PE32+ EXE generation
-- Minimal runtime
-
-
 # TigerC Compiler — Educational C23 Compiler for Windows x64
 
 ## Dedication
-
 This project is dedicated to the memory of **Dennis M. Ritchie**, the creator of the C programming language, whose work profoundly shaped modern computer science and software development.
-
 ---
 
 ## Purpose
-
 TigerC is an educational, syntax-aware C23 compiler project designed to help programmers understand:
-
 * how compilers work internally
 * low-level programming concepts
 * type systems and expression parsing
@@ -80,7 +60,4 @@ TigerC prioritizes:
 * transparent type diagnostics
 * minimal but understandable linking
 * educational compiler architecture
-
-![foto](https://github.com/user-attachments/assets/27636fd5-a1cb-48e9-8492-3e2c28403612)
-
 
