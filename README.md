@@ -10,7 +10,7 @@ This project is dedicated to the memory of **Dennis M. Ritchie**, the creator of
 ---
 
 ## Purpose
-TigerC is an educational, syntax-aware C compiler project designed to help programmers understand:
+C compiler project designed to help programmers understand:
 * how compilers work internally
 * low-level programming concepts
 * type systems and expression parsing
