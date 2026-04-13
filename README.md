@@ -1,4 +1,4 @@
-# TigerC Compiler — Educational C Compiler for Windows x64
+# Educational C Compiler for Windows x64
 
 ## Dedication
 This project is dedicated to the memory of **Dennis M. Ritchie**, the creator of the C programming language, whose work profoundly shaped modern computer science and software development.
